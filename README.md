@@ -34,7 +34,11 @@
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imashanawodi&show_icons=true&locale=en&layout=compact" alt="imashanawodi" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imashanawodi&show_icons=true&locale=en&layout=compact" alt="Top Languages" style="margin-right:20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imashanawodi&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imashanawodi&show_icons=true&locale=en" alt="imashanawodi" /></p>
+
+
 
